@@ -1,0 +1,60 @@
+.inputFrom{
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 70mm;
+    border: none;
+    border-radius: 25%;
+       border-top: 2px solid red;
+    border-bottom: 4px solid red;
+}
+.inputTo{
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 70mm;
+    border: none;
+    border-radius: 25%;
+       border-top: 2px solid red;
+    border-bottom: 4px solid red;
+}
+
+.inputText{
+    margin-left: 110px;
+    position: absolute top;
+    padding: 5px 10px 10px ;
+    width: 150mm;
+    box-sizing: border-box;
+    height: 100px;
+    border: none;
+    border-radius: 10%;
+    border-left: 40px;
+    border-top: 2px solid red;
+    border-bottom: 4px solid red;
+    font-size: 16px;
+    resize: none;
+
+}
+
+label{
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Lucida Sans';
+    margin: 20px;
+}
+
+.btn{
+    margin-left: 40px;
+    border-radius: 20%;
+}
+
+.SubjectInput{
+    margin: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 150mm;
+    border: none;
+    border-radius: 25%;
+       border-top: 2px solid red;
+    border-bottom: 4px solid red;
+}
